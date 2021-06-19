@@ -14,24 +14,24 @@ Here are some ideas to get you started:
 -->
 
 ## Hi! I'm Youngin
-- junior Android Developer based in Seoul, Korea
+<p align="center">
+<img src="IMG_2900.JPG" width="300"/>
+</p>
+
+- junior Android app developer based in Seoul, Korea
 - currently working for an ecommerce business
 - kotlin, java, javascript, html/css
 - pro procrastinator
 
-#### Help me achieve my daily goals
+#### ✨Help me achieve my daily goals
 - one commit a day
-- updating Algorithm solutions repository
 - keeping my surroundings tidy
-- getting a grasp on how mobile app services work
 
-#### What keeps me motivated
+#### 🏃‍♀️What keeps me motivated
 - a nice cup of iced coffee
 - being able to be fully immersed in a task
 - some quality jokes
 
-##### Random trivia facts about me
+##### 👽Random trivia facts about me
 - former art school student
-- publishes webcomic about my life as a junior developer(only occasionally)
-- fluent in English, Japanese and a native Korean speaker
 - nail-biter
