@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - a nice cup of iced coffee
 - being fully immersed in a task
 - a service that makes sense
-- some quality meme
+- writing a weekly blog (korean)
 
 ##### 👽Random trivia facts about me
 - former art school student
