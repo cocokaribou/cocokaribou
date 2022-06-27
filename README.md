@@ -18,20 +18,17 @@ Here are some ideas to get you started:
 <img src="IMG_2900.JPG" width="300"/>
 </p>
 
-- junior Android app developer based in Seoul, Korea
+- junior Android dev based in Seoul, Korea
 - currently working for an ecommerce business
-- kotlin, java, javascript, html/css
-- pro procrastinator
-
-#### ✨Help me achieve my daily goals
-- one commit a day
-- keeping my surroundings tidy
+- kotlin, java, javascript, html/css, figma
+- the power of daily routines: [Android TIL](https://github.com/cocokaribou/android_projects)
 
 #### 🏃‍♀️What keeps me motivated
 - a nice cup of iced coffee
-- being able to be fully immersed in a task
-- some quality jokes
+- being fully immersed in a task
+- a service that makes sense
+- some quality meme
 
 ##### 👽Random trivia facts about me
 - former art school student
-- nail-biter
+- jogging enthusiast
