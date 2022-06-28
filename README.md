@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 #### 🏃‍♀️What keeps me motivated
 - a nice cup of iced coffee
-- being fully immersed in a task
-- a service that makes sense
-- writing a weekly blog (korean)
+- a personal space that allows me to be fully immersed in a task
+- contributing to a user-friendly, purpose-driven service
+- writing a weekly blog (in korean)
 
 ##### 👽Random trivia facts about me
 - former art school student
