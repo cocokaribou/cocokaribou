@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 
 - junior Android dev based in Seoul, Korea
 - currently working for an ecommerce business
-- kotlin, java, javascript, html/css, figma
-- the power of daily routines: [Android TIL](https://github.com/cocokaribou/android_projects)
+- kotlin, java, python, javascript, html/css, figma
 
 #### 🏃‍♀️What keeps me motivated
 - a nice cup of iced coffee
