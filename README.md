@@ -31,8 +31,6 @@ Proficient in Kotlin, Java, Python, JavaScript, HTML/CSS, and Figma.
 #### 🤔Currently interested in...
 - Learning Mathematics for improving accuracy of code.
 - Reading a book everyday and reviewing the content within a day.
-- Cooking a healthy and nutritious meal. I enjoy watching [NutritionByKylie](https://www.youtube.com/@NutritionByKylie) and [KWOOWK](https://www.youtube.com/@letsKWOOWK)'s channel theses days.
 
 #### 👽Random trivia facts about me
 - Former art school student
-- Jogger
