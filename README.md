@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Hi! I'm Youngin
 The name is pronounced "Young-In".<br>
 Junior Android developer based in Seoul, Korea, currently working for an e-commerce business.<br>
-Proficient in Kotlin, Java, Python, JavaScript, HTML/CSS, and Figma.
+Proficient in Kotlin, Java, Python, JavaScript and HTML/CSS.
 
 #### 🏃‍♀️What keeps me motivated
 - Enjoying a nice cup of chilled coffee.
