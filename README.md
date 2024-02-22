@@ -19,18 +19,17 @@ Here are some ideas to get you started:
 
 ### Hi! I'm Youngin
 The name is pronounced "Young-In".<br>
-Junior Android developer based in Seoul, Korea, currently working for an e-commerce business.<br>
-Proficient in Kotlin, Java, Python, JavaScript and HTML/CSS.
+Junior Web/Mobile Developer based in Seoul, Korea.<br>
+Proficient in Kotlin, Python, JavaScript and HTML/CSS.
 
 #### 🏃‍♀️What keeps me motivated
 - Enjoying a nice cup of chilled coffee.
 - Contributing to a user-friendly, purpose-driven service.
-- A rewarding sensation after successfully solving a challenging problem.
-- Writing a [weekly blog](https://collectingbuttons.tistory.com/) (in Korean).
+- Writing a [tech blog](https://collectingbuttons.tistory.com/) (in Korean).
 
 #### 🤔Currently interested in...
-- Learning Mathematics for improving accuracy of code.
-- Reading a book everyday and reviewing the content within a day.
+- Learning Calculus.
+- Integrating AI modules into user-friendly applications.
 
 #### 👽Random trivia facts about me
 - Former art school student
